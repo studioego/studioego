@@ -16,3 +16,5 @@ I am curious as I study the commonalities and differences in studying East asian
 Also I translate into Korean on many of FLOSS(Free/Libre Open Source Software). and I visit some historic site and take pictures in Korea.
 
 ![DaeHyun Sung's github stats](https://github-readme-stats.vercel.app/api?username=studioego&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studioego)]((https://github.com/anuraghazra/github-readme-stats))
